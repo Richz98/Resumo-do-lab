@@ -21,11 +21,12 @@ A nuvem híbrida permite combinar a nuvem pública com a privada ou hospedagem d
 (ensinamento prévio sobre Capex e Opex)
 
 - CAPEX é a sigla da expressão inglesa CAPital EXpenditure, que pode ser definida como Despesas de Capital ou Investimentos em Bens de Capitais. Esse tipo de custo existe para manter ou até expandir o escopo das operações de uma empresa.
-- 
+  
 - OPEX é a sigla do termo em inglês Operational Expenditure. Ao contrário do CAPEX, o foco desse tipo de gasto está nas despesas e dispêndios operacionais, bem como na manutenção de equipamentos da empresa.
 
 
-links:
+- links:
+  
 (Azure criar conta gratuita)
 https://azure.microsoft.com/pt-br/pricing/purchase-options/azure-account/search?icid=free-search&ef_id=_k_5d2ea7c5dbcd1d98e6b5cfc675d296f5_k_&OCID=AIDcmmzmnb0182_SEM__k_5d2ea7c5dbcd1d98e6b5cfc675d296f5_k_
 
